@@ -1,0 +1,14 @@
+.content {
+    flex: auto;
+    text-align: center;
+    font-weight: bold;
+
+    .description{
+        font-size: 25px;
+        color: #224f4d;
+    }
+
+    .time{
+        color: #d62828;
+    }
+}

@@ -1,0 +1,23 @@
+.date{
+    width: 90px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+    overflow: hidden;
+    margin: 10px;
+
+    .month{
+        height: 30px;
+        line-height: 30px;
+        font-size: 20px;
+        color: #fff;
+        background-color: #d62828;
+    }
+
+    .day{
+        height: 60px;
+        line-height: 60px;
+        font-size: 50px;
+    }
+}

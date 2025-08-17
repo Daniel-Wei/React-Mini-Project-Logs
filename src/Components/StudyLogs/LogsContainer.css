@@ -1,0 +1,20 @@
+.logs-container{
+  background-color: #eae287;
+  padding: 20px;
+
+  .button{
+    width: 100px;
+    font-size: 20px;
+    margin: 0;
+  }
+
+  .noLog{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+  }
+}
+
+*{
+  box-sizing: border-box;
+}

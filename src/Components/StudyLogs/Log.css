@@ -1,0 +1,18 @@
+.log{
+    display: flex;
+    background-color: #fcbf49;
+    margin: 16px 0;
+
+    .delete {
+        height: 30px;
+        padding: 5px 20px;
+        font-size: 25px;
+        font-weight: 400;
+        cursor: pointer;
+        transition: .5s;
+    }
+
+    .delete:hover{
+        color: red;
+    }
+}
